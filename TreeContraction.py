@@ -349,7 +349,7 @@ if __name__ == "__main__":
                 a_even.append(value)
         print("")
         print("----------")
-        print(f"Iteracja {iter_nr}")
+        print(f"Iteration {iter_nr}")
         print("----------")
         print("")
         print("(1)")
