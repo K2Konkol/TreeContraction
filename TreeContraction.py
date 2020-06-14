@@ -400,6 +400,6 @@ if __name__ == "__main__":
     operand = expression_tree.value()
 
     if operand == '+':
-        print(f'Score = {res_x} + {res_y} = {res_x + res_y}')
+        print(f'Result = {res_x} + {res_y} = {res_x + res_y}')
     if operand == '*':
-        print(f'Score = {res_x} * {res_y} = {res_x * res_y}')
+        print(f'Result = {res_x} * {res_y} = {res_x * res_y}')
